@@ -1,3 +1,8 @@
+# What do I do?
+
+Because of the [Hype Cycle](https://en.wikipedia.org/wiki/Gartner_hype_cycle), there are projects that already entered _Plateau of productivity_. However this is the stage where original developers moved to other projects.
+I try to keep the boring projects working.
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=grgrzybek&show_icons=true&theme=dark&include_all_commits=true&custom_title=My+GitHub+stats)
 
 <!--
